@@ -24,6 +24,7 @@
 
 ### 项目名称: Django实现抢购方案 
 #### 项目描述:
+    * 独立完成抢购项目的开发
     * 我的职责是；设计功能模块，选择前端模板，数据库设计，实现编码。
     * 抢购的实现涉及的技术点；ajax请求、redis的hash、cache，Celery的配置使用。
     * 功能模块分为；运行商后台（admin）增删改商品和活动，消费者前台查看并抢购活动。
@@ -37,16 +38,20 @@
     * @shared_taskde修饰的异步抢购函数。自定义api，使用RESTful序列化与反序列化api
     * 模型类对象接口，自定义了APIView实现接口，
     * 增加了TokenAuthentication验证授权APIView中的相关接口方法。
+ * Github 地址: https://github.com/caizhenggang/QBuyPro   
 
 ### 项目名称: Falsk教育API接口
 #### 项目描述:
+    * 独立完成项目的开发
     * Flask 实现MTV的分离登陆页面，运用了md5名文加密，客户端cookie存储token ，
     * 服务端redis 缓存tokens ，mysql数据库，Ajax 文件头像上传。 
-    * Github；https://github.com/caizhenggang/edu_api_v3     
+* Github 地址: https://github.com/caizhenggang/edu_api_v3
+       
 ### 项目名称: Tornado的微项目   
+    *  独立完成项目的开发
     * 合理拆分tornado 项目，实现基本的sqlalchemy 的配置和操作，自定义ui组件，
     * 解决跨域问题，异步请求协程化，实现小型的socket 通信聊天室。
-    * 项目Github；https://github.com/caizhenggang/mServices
+* Github 地址: https://github.com/caizhenggang/mServices 
      
 ## 获奖经历
 * 计算机三级（数据库）
