@@ -14,9 +14,9 @@
 
 ## 专业技能
 
-* 熟悉Python语言开发，对于面向对象\网络编程\多线程\多进程\协程\异步IO\多路IO复用 \Falsk\Tornado\Django框架等知识比较熟悉。
+* 熟悉Python语言开发，对于面向对象\多线程\多进程\协程\异步IO\多路IO复用\Falsk\Tornado\Django框架等知识比较熟悉。
 * 熟悉掌握web开发知识，除熟悉原生js\html\css知识外，对bootstrap\jquery等前端框架也熟悉运用。
-* 熟悉掌握mysql\ORM\缓存Redis\分布式消息队列的使用
+* 熟悉掌握mysql\ORM\缓存Redis\分布式任务队列Celery的使用
 * 掌握数据结构和常用算法如冒泡、二分、快速排序、二叉树、希尔，归并排序等，掌握常用单例模式
 * 熟悉协作开发工具git应用
 
